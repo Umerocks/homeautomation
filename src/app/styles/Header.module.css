@@ -1,0 +1,53 @@
+.headerBody {
+    font-family: Arial, sans-serif;
+    background-color: #cdeff1;
+    margin: 0;
+    padding: 2px;
+}
+
+.bgImage {
+    background-image: url('/images/home03.jpg');
+    background-size: cover; /* Adjusts the size of the image */
+    background-position: center; /* Centers the image */
+    /* Optional: Set height and padding */
+     height: 200px; /*Adjust as needed */
+    /* padding:150; Adjust as needed  */
+    /* color: rgb(173, 0, 101); Text color */
+}
+
+
+
+
+
+
+
+.headerBody {
+    font-family: Arial, sans-serif;
+    background-color: #cdeff1;
+    margin: 0;
+    padding: 2px;
+}
+
+.h1Header {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-weight: bold; /* or use a numeric value like 700 */
+    font-size: x-large;
+}
+
+.h2Header  {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-weight: bold; /* or use a numeric value like 700 */
+    font-size: x-large;
+}
+
+.h3Header  {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-weight: bold; /* or use a numeric value like 700 */
+    font-size: x-large;
+    /* align-items: center; */
+}
+
+

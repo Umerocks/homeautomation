@@ -1,0 +1,43 @@
+.footBody {
+    font-family: Arial, sans-serif;
+    background-color: #cdeff1;
+    margin: 0;
+    padding: 2px;
+}
+
+.h1Foot {
+    color: rgb(255, 251, 2);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold; /* or use a numeric value like 700 */
+    font-size: x-large;
+}
+
+.h2Foot {
+    color: rgb(255, 251, 2);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold; /* or use a numeric value like 700 */
+    font-size: x-large;
+}
+
+.h3Foot {
+    color: rgb(255, 251, 2);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold; /* or use a numeric value like 700 */
+    font-size: x-large;
+    /* align-items: center; */
+}
+
+.bgimageFoot {
+    background-image: url('/images/home03.jpg');
+    background-size: cover; /* Adjusts the size of the image */
+    background-position: center; /* Centers the image */
+    /* Optional: Set height and padding */
+     height: 300px; /*Adjust as needed */
+    /* padding:150; Adjust as needed  */
+    /* color: rgb(173, 0, 101); Text color */
+}
+
+

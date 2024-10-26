@@ -1,5 +1,5 @@
 "use client"
-import React, { useState } from 'react';
+// import React, { useState } from 'react';
 import styles from './button.module.css'
 
 interface IProps{
@@ -8,8 +8,8 @@ interface IProps{
 
  const Button = (props:IProps) => {
     // console.log(props.text);
-    const [fanOn, setFanOn] = useState(false);
-    const toggleButton = () => setFanOn(!fanOn)
+    // const [fanOn, setFanOn] = useState(false);
+    // const toggleButton = () => setFanOn(!fanOn)
     return(
         <button className={styles.button}>
                 {/* {fanOn ? 'Turn Off Fan': 'Turn On Fan'} */}

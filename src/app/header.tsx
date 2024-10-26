@@ -1,6 +1,6 @@
 
-import AboutUS from './AboutUs';
-import ContactUS from './ContactUs';
+// import AboutUS from './AboutUs';
+// import ContactUS from './ContactUs';
 import Link from 'next/link';
 import Button from '@/components/button';
 import styles from './styles/Header.module.css'
